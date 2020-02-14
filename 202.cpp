@@ -1,14 +1,4 @@
-#include <cstdlib>
-#include <cstdio>
-#include <cstring>
-#include <queue>
-#include <algorithm>
-#include <iostream>
-#include <cmath>
-#include <ctime>
-#include <vector>
-#include <map>
-#include <stack>
+#include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 #define uint unsigned int
