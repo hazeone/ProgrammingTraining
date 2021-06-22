@@ -1,2 +1,2 @@
 # ProgrammingTraining
-heiheihei
+WHU CS programming training for undergraduates.
